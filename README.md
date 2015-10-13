@@ -21,11 +21,11 @@ Here's my experience using the script:
 
 Receiving the text:
 
-![Text message](text.png)
+![Text message](text.png =250x)
 
 Tickets arrive:
 
-![Tickets](tickets.jpg)
+![Tickets](tickets.jpg =250x)
 
 
 Hah, take that scalpers!
