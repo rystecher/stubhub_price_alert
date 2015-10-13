@@ -19,6 +19,8 @@ After you have all of the global fields filled out you're ready to go! I persona
 
 Here's my experience using the script:
 
+I decided that I wanted to attend Lollapalooza long after tickets had sold out through their site. Listings on the secondary markets such as Stubhub were ~$400 (face value was $300 - Yikes). I setup a reasonable limit to the price I wanted and I managed to beat the scalpers!
+
 Receiving the text:
 
 ![Text message](text.png)
