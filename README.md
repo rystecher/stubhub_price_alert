@@ -21,10 +21,11 @@ Here's my experience using the script:
 
 Receiving the text:
 
-![Text message](text.jpg)
+![Text message](text.png)
 
 Tickets arrive:
 
 ![Tickets](tickets.jpg)
 
-Take that scalpers
+
+Hah, take that scalpers!
