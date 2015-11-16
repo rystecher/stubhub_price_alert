@@ -17,17 +17,4 @@ You'll need to know the event id of the Stubhub event which can be found in the 
 
 After you have all of the global fields filled out you're ready to go! I personally wanted to run this script to check Stubhub every 10 minutes so I ran this script as a cron job (which you read about <a href="http://askubuntu.com/questions/2368/how-do-i-set-up-a-cron-job">here</a>.)
 
-Here's my experience using the script:
-
-I decided that I wanted to attend Lollapalooza long after tickets had sold out through their site. Listings on the secondary markets such as Stubhub were ~$400 (face value was $300 - Yikes). I setup a reasonable limit to the price I wanted and I managed to beat the scalpers!
-
-Receiving the text:
-
-![Text message](text.png)
-
-Tickets arrive:
-
-![Tickets](tickets.jpg)
-
-
 Hah, take that scalpers!
